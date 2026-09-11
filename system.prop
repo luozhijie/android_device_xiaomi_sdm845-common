@@ -7,7 +7,7 @@ ro.config.media_vol_steps=25
 ro.config.vc_call_vol_steps=11
 
 # Bluetooth
-ro.bluetooth.a2dp_offload.supported=true
+ro.bluetooth.a2dp_offload.supported=false
 
 # Camera
 camera.disable_zsl_mode=true
